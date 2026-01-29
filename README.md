@@ -78,6 +78,3 @@ Chat
 
 We welcome contributions to improve the MERN Chat App. To contribute, please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards and is well-documented.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
